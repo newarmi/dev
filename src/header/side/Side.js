@@ -38,6 +38,7 @@ class Side extends React.Component {
 					</nav>
 				</div>
 			</div>
+
 		);
 	}
 }
